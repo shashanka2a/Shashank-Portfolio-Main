@@ -62,28 +62,28 @@ export default function Home() {
       link: "https://kampus.fun/"
     },
     {
-      level: "Level 2: Startup Builder", 
+      level: "Level 2: SaaS Builder", 
       period: "2024–2025",
-      badge: "🚀",
-      title: "Markit",
-      description: "Evolved into building scalable tools that help startups grow and thrive.",
-      projects: ["FormEase → form building", "QRBee → QR analytics", "HackHire → coding assessments"],
-      gradientFrom: "from-teal-500",
-      gradientTo: "to-cyan-500",
-      borderColor: "border-teal-500",
-      link: "https://markit.one/"
+      badge: "🍽️",
+      title: "MenuOS",
+      description: "Building the complete digital ordering solution for modern restaurants. No commission fees, just results.",
+      projects: ["QR Code Ordering → scan & order", "Real-time Analytics → sales insights", "Payment Processing → secure transactions"],
+      gradientFrom: "from-orange-500",
+      gradientTo: "to-red-500",
+      borderColor: "border-orange-500",
+      link: "https://www.menuos.app/"
     },
     {
-      level: "Level 3: PaaS Architect",
+      level: "Level 3: Marketplace Creator",
       period: "2025–Current", 
-      badge: "☁️",
-      title: "Layr",
-      description: "Now building platform infrastructure — enabling others to build on top of my tools.",
-      projects: ["Logora → AI-powered branding layer", "Deckr → collaborative presentation layer", "Buidl → rapid prototyping layer"],
-      gradientFrom: "from-purple-500",
-      gradientTo: "to-blue-500",
-      borderColor: "border-purple-500",
-      link: "https://layr.plus/"
+      badge: "💒",
+      title: "ShaadiVerse",
+      description: "Creating the complete wedding universe for modern Indian couples. From photographers to gifts to invitations.",
+      projects: ["SnapEvent → photographer discovery", "Gnapika → personalized gifts", "Knotify → wedding websites"],
+      gradientFrom: "from-pink-500",
+      gradientTo: "to-purple-500",
+      borderColor: "border-pink-500",
+      link: "https://www.shaadiverse.app/"
     }
   ];
 
