@@ -203,8 +203,8 @@ export default function Home() {
               className="comic-panel max-w-3xl mx-auto mb-8 p-8"
             >
               <p className="comic-text text-white font-semibold px-4 md:px-0" style={{ fontSize: 'clamp(1rem, 3vw, 1.3rem)', lineHeight: '1.6', textShadow: '2px 2px 4px rgba(0,0,0,0.9), 0 0 10px rgba(255,255,255,0.4)' }}>
-                I'm Shashank Jagannatham, an MVP-slinger & product builder. From hackathons to startups, I've been building products fast, 
-                testing them with users, and scaling what works. My superpower? Turning ideas into real software that people actually use!
+                I'm Shashank Jagannatham, an MVP-slinger & product builder. From hackathons to startups, I've been building products fast, testing them with users, and scaling what works.
+                My superpower? Turning ideas into real software that people actually use!
               </p>
             </motion.div>
             
